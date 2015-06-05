@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">EMS Comms</string>
+    <string name="title_activity_main">Hello World Immersion</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="add_item">Add Item</string>
+    <string name="remove_item">Remove Item</string>
+    <string name="reset">Reset</string>
+    <string name="name">Name</string>
+    <string name="age">Age</string>
+</resources>
